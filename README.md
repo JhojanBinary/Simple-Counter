@@ -1,4 +1,5 @@
 # Hello World with React boilerplate
+![image](https://github.com/JhojanBinary/Simple-Counter/assets/102551448/b8516b71-f4d7-4dff-b811-5ce9b75431a9)
 
 Start coding a react application
 
